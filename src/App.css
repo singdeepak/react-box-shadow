@@ -1,0 +1,34 @@
+.App{
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  background-color: whitesmoke;
+  justify-content: space-evenly;
+}
+
+
+.controler{
+  width: 40vw;
+}
+
+
+.box{
+  width: 40vw;
+  height: 40vh;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+}
+
+
+code{
+  color: yellow;
+  border-radius: .3125rem;
+  background-color: black;
+}
+
+
